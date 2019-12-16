@@ -5,6 +5,8 @@ Authors:
 Zhongyuan Jin, zjin@kth.se  
 Abgeiba Yaroslava Isunza Navarro, ayin@kth.se
 
+Check our [report](LanguageEngineering_report.pdf) for more details about the implementation and results.
+
 ## project structure
 
 .  
